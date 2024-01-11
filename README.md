@@ -19,16 +19,13 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JinHxxxxKim&show_icons=true&theme=radical)
 ### 🔗 SNS
 
-<div>
-<a href="https://keepgoin9.tistory.com/"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
-<a href="https://yebini.notion.site/0500ee2eb7384e359bdb683ad6d9760c"><img src="https://img.shields.io/badge/Archive-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
-<a href="mailto:dev.devin.kr@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com"/></a>
+<a href="https://velog.io/@jinhxxxxkim/posts"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Velog&logoColor=white"/></a>
+<a href="mailto:jinhyungkim.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com"/></a>
 </div>
 
 ### 💡 Interest
 
-- Backend Server Engineering
-- Journaling
+- Backend Engineering
 
 ### 💻 Skills
 
@@ -37,8 +34,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
 <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
-</br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+<!-- </br> -->
+<!-- <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> -->
 <!-- <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"> -->
 </div>
 
@@ -46,11 +43,11 @@ Here are some ideas to get you started:
 <div>
 <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=IntelliJIDEA&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<!-- <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> -->
 </br>
-<img src="https://img.shields.io/badge/notion-181717?style=for-the-badge&logo=notion&logoColor=white">
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
-<img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=Confluence&logoColor=white">
+<!-- <img src="https://img.shields.io/badge/notion-181717?style=for-the-badge&logo=notion&logoColor=white"> -->
+<!-- <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"> -->
+<!-- <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=Confluence&logoColor=white"> -->
 </div>
 
 <br/>
