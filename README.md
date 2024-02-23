@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JinHxxxxKim&show_icons=true&theme=radical)
 ### 🔗 SNS
-
+<a href="https://jinhxxxxkim.tistory.com/"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
 <a href="https://velog.io/@jinhxxxxkim/posts"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Velog&logoColor=white"/></a>
 <a href="mailto:jinhyungkim.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com"/></a>
 </div>
