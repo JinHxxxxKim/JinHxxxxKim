@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Welcome&fontSize=90" />
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlawlsgud0217)](https://solved.ac/rlawlsgud0217/)
+</br>
+</br>
 🔗 SNS
 <a href="https://jinhxxxxkim.tistory.com/"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
 <a href="https://velog.io/@jinhxxxxkim/posts"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Velog&logoColor=white"/></a>
@@ -45,15 +47,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <!-- <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> -->
 </br>
-<!-- <img src="https://img.shields.io/badge/notion-181717?style=for-the-badge&logo=notion&logoColor=white"> -->
-<!-- <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"> -->
-<!-- <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=Confluence&logoColor=white"> -->
+
 </div>
 
 <br/>
-<!--
-[![yebin's github stats](https://github-readme-stats.vercel.app/api?username=yebin-choi)](https://github.com/anuraghazra/github-readme-stats) -->
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yebin-choi&theme=tokyonight)](https://git.io/streak-stats) -->
 
-<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yebin-choi&theme=nord_dark) -->
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=yebin-choi&theme=flat&column=7)](https://github.com/dkssud8150/) -->
