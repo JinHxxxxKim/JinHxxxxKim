@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Welcome&fontSize=90" />
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlawlsgud217)](https://solved.ac/rlawlsgud217/)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JinHxxxxKim&show_icons=true&theme=radical)
 ### 🔗 SNS
 <a href="https://jinhxxxxkim.tistory.com/"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
 <a href="https://velog.io/@jinhxxxxkim/posts"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Velog&logoColor=white"/></a>
