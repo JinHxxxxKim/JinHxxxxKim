@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Welcome&fontSize=90" />
-### 🔗 SNS
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlawlsgud0217)](https://solved.ac/rlawlsgud0217/)
+🔗 SNS
 <a href="https://jinhxxxxkim.tistory.com/"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
 <a href="https://velog.io/@jinhxxxxkim/posts"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Velog&logoColor=white"/></a>
 <a href="mailto:jinhyungkim.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com"/></a>
